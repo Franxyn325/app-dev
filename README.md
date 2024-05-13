@@ -8,13 +8,12 @@
 *The genre of Cinderella Movie by Disney is* **FANTASY**.
 
 **CHARACTERS**
-> Cinderella *(Main Character)*
-> Prince Charming *(Partner/Husband of Cinderella)*
-> Lady Tremaine *(Stepmother of Cinderella)*
-> Anastasia *(Step-sister of Cinderella)*
-> Drizella *(Step-sister of Cinderella)*
-> Gus and Jaq *(Mouse Friend of Cinderella)*
-> Lucifer *(Evil Cat of the Stepmother)*
-> Fairy Godmother *(The Fairy Godmother who granted Cinderella's wish)*
-> Bruno *(Dog Friend of Cinderella)*
-> 
+- **Cinderella** *(Main Character)*
+- **Prince Charming** *(Partner/Husband of Cinderella)*
+- **Lady Tremaine** *(Stepmother of Cinderella)*
+- **Anastasia** *(Step-sister of Cinderella)*
+- **Drizella** *(Step-sister of Cinderella)*
+- **Gus and Jaq** *(Mouse Friend of Cinderella)*
+- **Lucifer** *(Evil Cat of the Stepmother)*
+- **Fairy Godmother** *(The Fairy Godmother who granted Cinderella's wish)*
+- **Bruno** *(Dog Friend of Cinderella)* 
