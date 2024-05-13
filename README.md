@@ -5,7 +5,7 @@
 *It is a folk tale that is present in many forms with thousands of stories that feature a young person who is in tragic circumstances and living off the charity of others. Her fortune changes as she attracts the attention of a nobleman, who must search in some way to find out her identity.*
 
 **GENRE:**
-*FANTASY*.
+*Fantasy.*
 
 **CHARACTERS**
 - **Cinderella** *(Main Character)*
